@@ -4,7 +4,16 @@
 **nandani2020/nandani2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<html>
+  <body>
+    <select>
+      <option>1</option>
+       <option>2</option>
+       <option>3</option>
+       <option>4</option>
+      <select>
+    </body>
+  </html>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
